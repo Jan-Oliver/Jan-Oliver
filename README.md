@@ -10,7 +10,7 @@
 
 #### What I am proud of
 - 🎥 The online courses I created for some of my projects [available on Udemy](https://www.udemy.com/user/jan-oliver-seidenfuss-2/)
-- 🤝 MietMacher, an application ease the apartment search in Munich. Check it out [here](https://www.miet-macher.com)
+- 🤝 MietMacher, an application that eases the apartment search in Munich. Check it out [here](https://www.miet-macher.com)
 - 🏊🚴🏃 The Ironman 70.3 I finished last year in [Duisburg](https://www.endurance-data.com/en/result/558/758-jan-oliver-seidenfuss/) :D
 <br></br>
 #### Reach me on
